@@ -1,0 +1,19 @@
+$primary-color: #ffd700;
+
+@import 'animate.css';
+
+@font-face {
+  font-family: 'PlayfairDisplay-Variable_wght';
+  src: url('./assets/PlayfairDisplay-Italic-VariableFont_wght.ttf')
+    format('ttf');
+}
+
+@font-face {
+  font-family: 'CormorantGaramond-Italic';
+  src: url('./assets/CormorantGaramond-Italic.ttf') format('tff');
+}
+
+input,
+textarea {
+  font-family: 'Roboto-Light';
+}
